@@ -1,0 +1,13 @@
+C:\Users\aydna\Desktop\Exchange Rate Information\Exchange Rate Information\bin\Debug\Exchange Rate Information.exe.config
+C:\Users\aydna\Desktop\Exchange Rate Information\Exchange Rate Information\bin\Debug\Exchange Rate Information.exe
+C:\Users\aydna\Desktop\Exchange Rate Information\Exchange Rate Information\bin\Debug\Exchange Rate Information.pdb
+C:\Users\aydna\Desktop\Exchange Rate Information\Exchange Rate Information\obj\Debug\Exchange Rate Information.csprojAssemblyReference.cache
+C:\Users\aydna\Desktop\Exchange Rate Information\Exchange Rate Information\obj\Debug\Exchange_Rate_Information.Form1.resources
+C:\Users\aydna\Desktop\Exchange Rate Information\Exchange Rate Information\obj\Debug\Exchange_Rate_Information.Properties.Resources.resources
+C:\Users\aydna\Desktop\Exchange Rate Information\Exchange Rate Information\obj\Debug\Exchange Rate Information.csproj.GenerateResource.cache
+C:\Users\aydna\Desktop\Exchange Rate Information\Exchange Rate Information\obj\Debug\Exchange Rate Information.csproj.CoreCompileInputs.cache
+C:\Users\aydna\Desktop\Exchange Rate Information\Exchange Rate Information\obj\Debug\Exchange Rate Information.exe
+C:\Users\aydna\Desktop\Exchange Rate Information\Exchange Rate Information\obj\Debug\Exchange Rate Information.pdb
+C:\Users\aydna\Desktop\Exchange Rate Information\Exchange Rate Information\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aydna\Desktop\Exchange Rate Information\Exchange Rate Information\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aydna\Desktop\Exchange Rate Information\Exchange Rate Information\obj\Debug\Exchange Rate Information.csproj.CopyComplete
